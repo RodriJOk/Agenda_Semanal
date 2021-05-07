@@ -39,9 +39,9 @@ body{
 .section-left__description{
     padding: 10px 5px 50px;
     text-align: left;
-    font-size: 20px;
+    font-size: 26px;
     font-weight: 500;
-
+    color: #fff;
 }
 
 .section-right{
@@ -61,8 +61,9 @@ body{
 .section-right__title > :nth-child(2){
     padding: 10px 5px 50px;
     text-align: left;
-    font-size: 20px;
+    font-size: 26px;
     font-weight: 500;
+    color: #fff;
 }
 
 .glassmorphism-effect {
@@ -83,16 +84,16 @@ body{
     align-items: center;
     border-radius: 50%;
     display: flex;
-    height: 40px;
+    height: 50px;
+    width: 50px;
     justify-content: center;
     margin-right: 10px;
     margin-left: 10px;
     margin-bottom: 20px;
-
 }
 
 .goals img {
-    width: 30px;
+    width: 35px;
 }
 
 .goals--title{
